@@ -1,5 +1,5 @@
 ### ML-study-2020 
-Cousera ML study Documentation for 11 Weeks (26.9.2020 ~ 5.12.2020) 
+Coursera ML study Documentation for 11 Weeks (26.9.2020 ~ 5.12.2020) 
 
 * Consisted of two components :  Recap and Q&A 
 
